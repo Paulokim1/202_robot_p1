@@ -1,5 +1,9 @@
 # Robótica Computacional 2020.2
 
+# GABARITO
+
+As questões estão no branch principal deste repositório
+
 [Mais orientações no README](./README.md)
 
 ## Prova P1 AI
