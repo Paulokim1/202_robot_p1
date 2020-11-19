@@ -3,6 +3,10 @@
 
 # Este NÃO é um programa ROS
 
+# Esta solução pode ser vista em:
+# https://youtu.be/BHu6OodU-iY
+
+
 from __future__ import print_function, division 
 
 import cv2
