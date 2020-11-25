@@ -4,6 +4,9 @@
 # Sugerimos rodar com:
 # roslaunch turtlebot3_gazebo  turtlebot3_empty_world.launch 
 # RESPOSTA DA QUESTAO 4 - POLIGONO REGULAR
+#
+# Can be seen runnning at https://youtu.be/Mpi8JuHOoLY
+#
 
 from __future__ import print_function, division
 import rospy
