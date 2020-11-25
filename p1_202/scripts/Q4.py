@@ -5,6 +5,8 @@
 #
 # Este código pode ser visto em: https://youtu.be/1Jf4EyDMw2Q
 #
+# RESPOSTA DA QUESTAO 3 - DETECTAR A FORMA, CENTRALIZAR E SE APROXIMAR PARANDO VIA LASER A UMA DISTANCIA ESPECIFICA
+
 
 from __future__ import print_function, division
 import rospy
