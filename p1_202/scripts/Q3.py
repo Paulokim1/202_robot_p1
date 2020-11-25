@@ -3,7 +3,7 @@
 
 # Sugerimos rodar com:
 # roslaunch turtlebot3_gazebo  turtlebot3_empty_world.launch 
-
+# RESPOSTA DA QUESTAO 4 - POLIGONO REGULAR
 
 from __future__ import print_function, division
 import rospy
