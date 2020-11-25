@@ -2,6 +2,21 @@
 
 # GABARITO
 
+# Gabaritos
+
+[Q1 Desenvolvimento](./q1/Q1.ipynb)
+[Q1 gabarito](./q1/q1.py)
+[Q1 gabarito alternativo](./q1/q1_aulapy)
+ 
+Q2
+[Q2 Desenvolvimento](./q2/Q2.ipynb)
+[Q2 gabarito](./q2/q2.py)
+ 
+Q3 - formas
+[Gabarito](./p1_202/scripts/Q4.py)
+ 
+
+
 As questões estão no branch principal deste repositório
 
 [Mais orientações no README](./README.md)

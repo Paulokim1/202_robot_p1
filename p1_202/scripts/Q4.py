@@ -2,6 +2,9 @@
 # -*- coding:utf-8 -*-
 # Sugerimos rodar com:
 #     roslaunch my_simulation novas_formas.launch
+#
+# Este código pode ser visto em: https://youtu.be/1Jf4EyDMw2Q
+#
 
 from __future__ import print_function, division
 import rospy
